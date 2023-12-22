@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup
 import requests
 
 
-year = 2020
-city = "Brüggen"
-district = "Bracht"
-street = "Agrisstrasse"
-house_number = "1"
+year = 2024
+city = "Nettetal"
+district = "Nettetal"
+street = "Lötsch"
+house_number = "89"
 
 
 
